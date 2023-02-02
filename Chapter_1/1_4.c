@@ -19,4 +19,6 @@ int main()
 
 		celsius += STEP;
 	}
+
+	return 0;
 }
